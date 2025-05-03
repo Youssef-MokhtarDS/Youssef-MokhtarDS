@@ -3,7 +3,7 @@
 Welcome to my GitHub portfolio! I’m a passionate **Data Scientist** with experience in **Machine Learning**, **Data Science**, and **AI**. Here's an overview of my work, skills, and projects.
 
 ## My GitHub Stats
-![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefHaitham&count_private=true&show_icons=true&hide=prs&theme=radical)
+![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Youssef-MokhtarDS&count_private=true&show_icons=true&hide=prs&theme=radical)
 
 ## Projects
 
