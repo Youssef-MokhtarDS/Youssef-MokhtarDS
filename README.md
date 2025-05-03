@@ -12,7 +12,7 @@ An AI-based system to create personalized fitness plans using Python and machine
 - **Technologies**: Python, Pandas, Scikit-learn
 - **Status**: ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
-### [Stroke Detection using Machine Learning](https://github.com/YoussefHaitham/Stroke-Detection)
+### [Stroke Detection using Machine Learning](https://github.com/Youssef-MokhtarDS/Stroke-Detection)
 Built a machine learning model to predict the risk of a stroke.
 - **Technologies**: Python, Random Forest, Pandas, Scikit-learn
 - **Status**: ![Status](https://img.shields.io/badge/Status-Completed-green)
