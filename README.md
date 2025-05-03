@@ -22,7 +22,7 @@ A machine learning model to predict liver cirrhosis and its severity.
 - **Technologies**: Python, Random Forest, XGBoost
 - **Status**: ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
-### [Stroke Prediction using Random Forest](https://github.com/YoussefHaitham/Stroke-Prediction)
+### [Stroke Prediction using Random Forest](https://github.com/YoussefHaitham/Stroke_Detection)
 A predictive model that assesses the likelihood of a stroke using medical data.
 - **Technologies**: Python, Random Forest, Pandas
 - **Status**: ![Status](https://img.shields.io/badge/Status-Completed-green)
@@ -36,12 +36,10 @@ A predictive model that assesses the likelihood of a stroke using medical data.
 
 ## Education
 - **Bachelor's in Business Information Systems (BIS)** from **Thebes Academy**
-- **Research**: Personal Fitness Recommendation System (PFRS) & Stroke Detection System
-
 ## Contact Me
 - Email: youssef@example.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/youssefhaitham)
-- GitHub: [YoussefHaitham](https://github.com/YoussefHaitham)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/youssef-haitham/)
+- GitHub: [YoussefHaitham](https://github.com/Youssef-MokhtarDS)
 
 ## GitHub Stats & Activity
 ![GitHub Activity](https://img.shields.io/github/followers/YoussefHaitham?label=Follow&style=social)
