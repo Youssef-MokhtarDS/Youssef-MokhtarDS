@@ -41,7 +41,7 @@ A predictive model that assesses the likelihood of a stroke using medical data.
 ![GitHub Repo Stars](https://img.shields.io/github/stars/Youssef-MokhtarDS?label=Stars&style=social)
 
 ## Latest Projects
-### [Stroke Risk Prediction](https://github.com/YoussefHaitham/Stroke-Prediction)
+### [Stroke Risk Prediction](https://github.com/Youssef-MokhtarDS/Stroke-Prediction)
 - **Technologies**: Python, Scikit-learn, Pandas
 - **Status**: ![Status](https://img.shields.io/badge/Status-Completed-green)
 
