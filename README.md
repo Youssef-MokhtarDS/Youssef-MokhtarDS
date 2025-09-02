@@ -1,50 +1,49 @@
-# Youssef Haitham - Data Scientist Portfolio
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-Welcome to my GitHub portfolio! I’m a passionate **Data Scientist** with experience in **Machine Learning**, **Data Science**, and **AI**. Here's an overview of my work, skills, and projects.
+###
 
-## My GitHub Stats
-![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Youssef-MokhtarDS&count_private=true&show_icons=true&hide=prs&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## Projects
+###
 
-### [Stroke Detection using Machine Learning](https://github.com/Youssef-MokhtarDS/Stroke-Detection)
-Built a machine learning model to predict the risk of a stroke.
-- **Technologies**: Python, Random Forest, Pandas, Scikit-learn
-- **Status**: ![Status](https://img.shields.io/badge/Status-Completed-green)
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-### [LiverGuard: Multi-Class Prediction for Cirrhosis](https://github.com/Youssef-MokhtarDS/LiverGuard)
-A machine learning model to predict liver cirrhosis and its severity.
-- **Technologies**: Python, Random Forest, XGBoost
-- **Status**: ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+###
 
-### [Stroke Prediction using Random Forest](https://github.com/Youssef-MokhtarDS/Stroke_Detection)
-A predictive model that assesses the likelihood of a stroke using medical data.
-- **Technologies**: Python, Random Forest, Pandas
-- **Status**: ![Status](https://img.shields.io/badge/Status-Completed-green)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-## Skills
-- **Machine Learning**: Random Forest, XGBoost, Scikit-learn
-- **Deep Learning**: TensorFlow, Keras
-- **Programming Languages**: Python, SQL
-- **Tools**: Jupyter, Git, GitHub
-- **Data Science**: Data Analysis, Feature Engineering, Model Evaluation
+###
 
-## Education
-- **Bachelor's in Business Information Systems (BIS)** from **Thebes Academy**
-## Contact Me
-- Email: ymokhtar695@gmail.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/youssef-haitham/)
-- GitHub: [YoussefHaitham](https://github.com/Youssef-MokhtarDS)
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-## GitHub Stats & Activity
-![GitHub Activity](https://img.shields.io/github/followers/Youssef-MokhtarDS?label=Follow&style=social)
-![GitHub Repo Stars](https://img.shields.io/github/stars/Youssef-MokhtarDS?label=Stars&style=social)
+###
 
-## Latest Projects
-### [Stroke Risk Prediction](https://github.com/Youssef-MokhtarDS/Stroke-Prediction)
-- **Technologies**: Python, Scikit-learn, Pandas
-- **Status**: ![Status](https://img.shields.io/badge/Status-Completed-green)
+<br clear="both">
 
-### [AI Fitness Planner](https://github.com/YoussefHaitham/PFRS)
-- **Technologies**: Python, Scikit-learn
-- **Status**: ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
