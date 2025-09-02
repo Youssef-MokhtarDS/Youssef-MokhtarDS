@@ -20,7 +20,7 @@
   <a href="https://www.facebook.com/youssef.h.mokhtar/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="44" height="32" alt="facebook logo"  />
   </a>
-  <a href="www.linkedin.com/in/youssef-haitham" target="_blank">
+  <a href="[www.linkedin.com/in/youssef-haitham](https://www.linkedin.com/in/youssef-haitham/)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="32" alt="linkedin logo"  />
   </a>
 </div>
